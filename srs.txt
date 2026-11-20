@@ -1,1 +1,5 @@
 here i am creating and commit changes in the project 
+non functional requirement 
+security check 
+usability 
+scalability 
